@@ -1,45 +1,45 @@
 ---
-title: "Values"
-image: /img/about-jumbotron.jpg
+title: Values
+image: /img/screen-shot-2019-09-26-at-12.00.50.png
 values:
-  - heading: "Shade-grown coffee"
+  - heading: Representing Community
+    imageUrl: /img/32e2ea23-a61c-4460-a2ae-2511ca356eb9_200x200.png
+    text: >-
+      Morbi congue augue vitae dictum convallis. Ut cursus, magna iaculis
+      gravida sodales, turpis nulla tincidunt nisi, et dictum nulla risus ac
+      arcu. Pellentesque suscipit gravida urna non luctus. Etiam justo justo,
+      pulvinar id sagittis ac, consectetur in neque. In erat elit, congue in
+      lectus posuere, laoreet finibus ante. Curabitur vehicula vehicula purus,
+      sit amet vehicula erat posuere sed. Nulla ut augue feugiat, auctor sapien
+      id, fermentum eros. Praesent diam tellus, eleifend at elementum ut,
+      dapibus vel leo. Sed tempus tristique nulla, eget aliquet metus dictum
+      vel. Vivamus id aliquet velit. Fusce gravida dolor in libero faucibus, a
+      commodo lorem ullamcorper. Donec ac pretium nunc. Vestibulum vel tortor
+      facilisis, dictum ex ut, consequat elit.
+  - heading: Impartial
+    imageUrl: /img/screen-shot-2019-09-26-at-11.57.27.png
+    text: >-
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam rhoncus,
+      augue et ullamcorper efficitur, est justo eleifend tortor, ut ornare magna
+      nulla eget nisl. Pellentesque nec augue dignissim, eleifend libero vel,
+      aliquet justo. Nam a congue felis. Ut velit nulla, vulputate quis
+      vestibulum sit amet, rutrum vitae nunc. Sed felis velit, auctor quis dui
+      quis, vehicula cursus eros. Vivamus interdum dolor at nulla dictum
+      vestibulum. In nec dolor sit amet justo dignissim pharetra. Donec sit amet
+      sagittis tellus. Etiam quis urna at dolor porta aliquam. Praesent ultrices
+      at orci id venenatis. Duis faucibus ipsum non malesuada scelerisque.
+      Mauris et urna ut dolor pretium dapibus et at ligula. Vestibulum at mi
+      lectus.
+  - heading: Fair
+    imageUrl: /img/9401c6a9-c48c-4507-9ad0-257ad86145c0_200x200.png
     text: >
-      Coffee is a small tree or shrub that grows in the forest
-      understory in its wild form, and traditionally was grown
-      commercially under other trees that provided shade. The
-      forest-like structure of shade coffee farms provides habitat for
-      a great number of migratory and resident species.
-    imageUrl: "/img/about-shade-grown.jpg"
-  - heading: "Single origin"
-    text: >
-      Single-origin coffee is coffee grown within a single known
-      geographic origin. Sometimes, this is a single farm or a
-      specific collection of beans from a single country. The name of
-      the coffee is then usually the place it was grown to whatever
-      degree available.
-    imageUrl: "/img/about-single-origin.jpg"
-  - heading: "Sustainable farming"
-    text: >
-      Sustainable agriculture is farming in sustainable ways based on
-      an understanding of ecosystem services, the study of
-      relationships between organisms and their environment. What
-      grows where and how it is grown are a matter of choice and
-      careful consideration for nature and communities.
-    imageUrl: "/img/about-sustainable-farming.jpg"
-  - heading: "Direct sourcing"
-    text: >
-      We want to truly empower the communities that bring amazing
-      coffee to you. That’s why we reinvest 20% of our profits into
-      farms, local businesses and schools everywhere our coffee is
-      grown. You can see the communities grow and learn more about
-      coffee farming on our blog.
-    imageUrl: "/img/about-direct-sourcing.jpg"
-  - heading: "Reinvest profits"
-    text: >
-      We want to truly empower the communities that bring amazing
-      coffee to you. That’s why we reinvest 20% of our profits into
-      farms, local businesses and schools everywhere our coffee is
-      grown. You can see the communities grow and learn more about
-      coffee farming on our blog.
-    imageUrl: "/img/about-reinvest-profits.jpg"
+      Fusce commodo dapibus orci, vitae semper mi rutrum non. Sed vulputate est
+      in quam sollicitudin dictum. Aenean venenatis vestibulum blandit. Mauris
+      sit amet lorem accumsan, vestibulum velit a, efficitur diam. Pellentesque
+      ante est, consequat nec mi iaculis, tempus tempor leo. Vivamus venenatis
+      eleifend iaculis. Curabitur id neque vulputate arcu gravida maximus.
+      Integer fermentum pulvinar metus, vitae laoreet lacus mollis sed. Sed
+      bibendum, nunc ac suscipit pretium, eros dui tristique odio, quis
+      malesuada neque nunc ac nulla.
 ---
+
