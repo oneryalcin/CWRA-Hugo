@@ -16,7 +16,6 @@ intro:
     Pellentesque habitant morbi tristique senectus et netus et malesuada fames
     ac turpis egestas. Nunc suscipit, turpis id congue mollis, leo metus commodo
     est, ut lacinia leo felis sed velit.
-products: []
 values:
   heading: Our values
   text: >-
